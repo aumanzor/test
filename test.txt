@@ -1,1 +1,2 @@
 Este documento es para probar git en la consola y tambien hacerlo remoto
+este cambio es para ver como actuan los cambios en el archivo remoto y como podemos visualizarlo en el local
